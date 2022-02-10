@@ -15,3 +15,5 @@ To create a rule a sentence must be made. Examples:
 fiw - flag is win
 rip - rock is push
 oiy - oso is you
+![image](https://user-images.githubusercontent.com/90328572/153391271-4ff1c6e3-e1c6-492c-9e23-8543b7eaa047.png)
+![image](https://user-images.githubusercontent.com/90328572/153391479-491222ad-fae0-499f-96f3-4a4861ed4fda.png)
